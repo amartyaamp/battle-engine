@@ -1,0 +1,49 @@
+{
+    "battle_name": "Dummy Test 2v2",
+    "units": [
+        {
+            "id": "A1",
+            "faction": "British",
+            "x": 10,
+            "y": 50,
+            "hp": 100,
+            "morale": 1.0,
+            "speed": 2.0,
+            "range": 5.0,
+            "accuracy": 0.6
+        },
+        {
+            "id": "A2",
+            "faction": "British",
+            "x": 10,
+            "y": 60,
+            "hp": 100,
+            "morale": 1.0,
+            "speed": 2.0,
+            "range": 5.0,
+            "accuracy": 0.6
+        },
+        {
+            "id": "B1",
+            "faction": "Bengal",
+            "x": 90,
+            "y": 50,
+            "hp": 100,
+            "morale": 0.8,
+            "speed": 1.5,
+            "range": 4.0,
+            "accuracy": 0.4
+        },
+        {
+            "id": "B2",
+            "faction": "Bengal",
+            "x": 90,
+            "y": 60,
+            "hp": 100,
+            "morale": 0.8,
+            "speed": 1.5,
+            "range": 4.0,
+            "accuracy": 0.4
+        }
+    ]
+}
