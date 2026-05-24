@@ -1,2 +1,0 @@
-# We will add Manim later in Week 2
-# manim>=0.18.0
